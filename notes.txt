@@ -1,0 +1,10 @@
+1. npm init -y
+2. yarn add -D typescript = menambahkan typescript sebagai directory
+3. ts config = npx tsc --init
+4. make src folder and index.ts
+5. make build run command in package.json andthen run npm build
+6. install ts-node = use like nodejs (node index)
+7. install ts-node-dev = use like nodemon (watch our file)
+8. add the another command in package.json
+9. we can use nodemon too, but with different command in package.json
+10. install nodejs package as typescript package yarn add -D @types/express, yarn add -D @types/node 
